@@ -1,3 +1,3 @@
-def SaludoNombre(nombre){
+def SaludoNombre(String nombre){
     println "Hola ${nombre} desde output utils"
 }
